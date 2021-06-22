@@ -1,5 +1,17 @@
 # FullStackReactDEVELOPGoodWorks
 
+
+HOW TO start:
+
+1.  > cd server
+2.  > node index.js
+
+In another terminal:
+> cd server/client
+> npm start
+
+DDDDDDDDDDDDDD END DDDDDDDDDDDDDD
+
 Quick setup — if you’ve done this kind of thing before
 or	
 git@github.com:ffjabbari/FullStackReactDEVELOPGoodWorks.git
