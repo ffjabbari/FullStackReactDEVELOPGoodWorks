@@ -1,5 +1,12 @@
 # FullStackReactDEVELOPGoodWorks
 
+REMEMBER ALL THE GOOD CODE IS IN develop branch... So first thing you do are:
+
+1.  git clone git@github.com:ffjabbari/FullStackReactDEVELOPGoodWorks.git
+
+2.  git checkout develop
+
+THEN DO THESE COMMANDS BELOW:
 
 HOW TO start:
 
